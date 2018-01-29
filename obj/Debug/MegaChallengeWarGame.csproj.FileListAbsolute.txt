@@ -1,0 +1,9 @@
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\bin\MegaChallengeWarGame.dll.config
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\bin\MegaChallengeWarGame.dll
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\bin\MegaChallengeWarGame.pdb
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\obj\Debug\MegaChallengeWarGame.csprojResolveAssemblyReference.cache
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\obj\Debug\MegaChallengeWarGame.csproj.CoreCompileInputs.cache
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\obj\Debug\MegaChallengeWarGame.dll
+C:\Users\mbyse\Documents\Visual Studio 2017\Projects\MegaChallengeWarGame\MegaChallengeWarGame\obj\Debug\MegaChallengeWarGame.pdb
